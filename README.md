@@ -9,3 +9,5 @@
 4) [**continuous-time quantum walk - complete graph + searching**](https://github.com/qwchagas/quantum_walk_matlab/tree/master/continuous%20-%20complete%20graph%20%2B%20searching): we've implemented the continuous-time quantum walk model performing searching and with multiple marked elements allowed;
 
 5) [**continuous-time quantum walk - square lattice**](https://github.com/qwchagas/quantum_walk_matlab/tree/master/continuous%20-%20square%20lattice): we've implemented the continuous-time quantum walk in a square lattice;
+
+6) [**continuous-time quantum walk - complete k-partite graph + searching**](https://github.com/qwchagas/quantum_walk_matlab/tree/master/continuous%20-%20complete%20k%20partite%20graph%20%2B%20searching): we've implemented the continuous-time quantum walk in a complete k-partite graph and performing the searching problem with a single marked vertex;
