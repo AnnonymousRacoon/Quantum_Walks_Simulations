@@ -1,6 +1,4 @@
 function [grover] = GroverCoin(degree)
-%UNTITLED4 Summary of this function goes here
-%   Detailed explanation goes here
 
 s = ones(degree,1)/sqrt(degree);
 
