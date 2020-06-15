@@ -1,6 +1,5 @@
 function [S] = ShiftBipartiteFlipFlop(n)
-%UNTITLED3 Summary of this function goes here
-%   Detailed explanation goes here
+
 dimensions = [n,2,n];
 S = zeros(2*n^2,2*n^2);
 for c = 0:n-1
