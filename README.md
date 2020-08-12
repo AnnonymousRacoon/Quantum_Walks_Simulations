@@ -21,6 +21,8 @@
 
   - [**complete k-partite graph + searching**](https://github.com/qwchagas/quantum_walk_matlab/tree/master/continuous%20-%20complete%20k%20partite%20graph%20%2B%20searching): we've implemented the continuous-time quantum walk in a complete k-partite graph and performing the searching problem with a single marked vertex;
   
+  - [**circulant graphs + searching**](https://github.com/qwchagas/Quantum_Walks_Simulations/tree/master/continuous%20-%20circulant%20graphs%20%2B%20searching)
+  
   
 2. Python
 - soon
